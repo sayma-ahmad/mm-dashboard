@@ -1,10 +1,6 @@
-# Streamlit server settings for the P1/P2 alert-correlation dashboard.
-# Command-line flags (--server.port ...) override anything here.
-
 [server]
-headless = true            # never try to open a browser on the server
-port = 8502
-address = "0.0.0.0"        # listen on every interface so the team can reach it; use "127.0.0.1" to keep it local
+headless = true
+address = "0.0.0.0"
 runOnSave = false
 enableXsrfProtection = true
 maxUploadSize = 50
