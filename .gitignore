@@ -1,7 +1,3 @@
-
-# Confidential client data
-data/raw/*
-
 # Python
 __pycache__/
 *.pyc
