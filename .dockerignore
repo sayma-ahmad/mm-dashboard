@@ -1,0 +1,11 @@
+.venv
+.git
+.claude
+.vscode
+__pycache__
+*.pyc
+*.ipynb
+notebooks
+outputs
+data
+*.zip

@@ -1,0 +1,9 @@
+# Minimal packages for the P1/P2 alert-correlation dashboard (poc/p1p2_app.py).
+# Tested with Python 3.13.1 on Windows 11. requirements.txt is the full notebook environment; this is enough for the dashboard.
+streamlit==1.66.1
+pandas==3.1.0
+numpy==2.5.4
+pyarrow==26.0.0
+plotly==7.1.0
+openpyxl==3.1.5
+pyxlsb==1.0.10

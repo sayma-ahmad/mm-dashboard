@@ -1,0 +1,48 @@
+code,location,city,match,confidence,note
+NSKP1,NASIK PLANT 1,Nashik,code,high,MM-NSKP1-EDG-SDW hosts
+NSKP2,NASIK PLANT 2,Nashik,code,high,MM-NSKP2-EDG-SDW hosts
+NAGP1,NAGPUR 1,Nagpur,code,high,
+NAGP2,NAGPUR 2,Nagpur,code,high,
+ZHBFD,ZAHEERABAD-FD,Zaheerabad,code,high,
+ZHBAD,ZAHEERABAD-AD,Zaheerabad,code,high,
+ZAHEERABAD-AD,ZAHEERABAD-AD,Zaheerabad,code,high,zaheerabad-ad-sdwan-fw hosts
+ZHB,ZAHEERABAD-AD,Zaheerabad,prefix,medium,ZHB-... hosts: AD or FD? confirm
+IGTPL,IGATPURI,Igatpuri,code,high,
+IGT,IGATPURI,Igatpuri,prefix,medium,
+JAIPL,JAIPUR FD,Jaipur,code,medium,JAIPL = Jaipur plant. RVTool has JAIPUR FD and JAIPUR-SBU: confirm which
+JAIWH,JAIPUR-SBU,Jaipur,code,guess,JAIWH = Jaipur warehouse? confirm
+KNHP1,KANHE 1,Kanhe,code,high,
+KNHP2,KANHE 2,Kanhe,code,high,
+RDPPL,RUDRAPUR,Rudrapur,code,high,
+HDWPL,HARIDWAR,Haridwar,code,high,
+HRD,HARIDWAR,Haridwar,prefix,medium,AD-HRD-... hosts
+PTMPL,PITHAMPUR,Pithampur,code,high,
+CJBPL,SDVC-COIMBATORE,Coimbatore,code,medium,CJB = Coimbatore airport code
+CHKMT,MT-CHAKAN,Chakan,code,high,MT = Mahindra Trucks
+CHKPL,MVML-CHAKAN,Chakan,code,medium,Chakan plant = MVML (Mahindra Vehicle Manufacturers)? confirm
+MASPL-CHK,MASPL CHAKAN,Chakan,code,guess,MASPL-CHK-1-Shop... hosts sit at Chakan; not in RVTool
+MASPL,MASPL-KOLAR,Kolar,code,medium,
+KLRMA,MASPL-KOLAR,Kolar,code,medium,
+MHEPL,MHEL CHAKAN,Chakan,code,high,
+MVML,MVML-CHAKAN,Chakan,prefix,high,
+CHK,MVML-CHAKAN,Chakan,prefix,medium,MM-CHK-... hosts
+CH,MHEL CHAKAN,Chakan,prefix,guess,CH-MHEPL-... and CH-GATE-2-... hosts: CH = Chakan?
+GTWCO,GATEWAY HO,Mumbai,code,high,
+GATEWAY,GATEWAY HO,Mumbai,code,high,gateway_ofc_core_sw hosts
+MLDL MALGUDI,MLDL BANGALORE,Bangalore,code,guess,"MLDL Malgudi Banglore" hosts; not in RVTool
+BLRR1,BANGALORE (BLRR1),Bangalore,code,guess,RVTool has LMM- / VTP- / IC- / MEML-BANGALORE: confirm which
+BLRR2,BANGALORE (BLRR2),Bangalore,code,guess,
+CWDMT,CHINCHWAD (CWDMT),Chinchwad,code,guess,not in RVTool; MT = Mahindra Trucks?
+AFS,AFS PUNE,Pune,prefix,guess,afs-pune-... hosts; not in RVTool
+MOHP1,MOHALI,Mohali,code,high,
+MOHP2,MOHALI,Mohali,code,high,
+MHLPL,MOHALI,Mohali,code,medium,MM-MHLPL-... hosts
+FBDP1,FARIDABAD,Faridabad,code,medium,MM-FBDP1-... hosts
+KNDAD,MDE,Kandivali,code,medium,Kandivali AD
+KNDMD,MDE,Kandivali,code,medium,
+KNDFD,MDE,Kandivali,code,medium,
+WRLMT,WORLI,Mumbai,code,high,
+SEWCO,SEWRI,Mumbai,code,medium,
+MMDC,MDE-COLO,Kandivali,prefix,guess,
+COLO,MDE-COLO,Kandivali,prefix,guess,
+MSPT,MSPT-CHENNAI,Chennai,prefix,guess,MSPT_LMM-CONTAINER-SW host

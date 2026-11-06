@@ -1,0 +1,30 @@
+code,city,match,confidence,note
+NAGP1,Nagpur,code,guess,MM-NAGP1-... hosts
+NAGP2,Nagpur,code,guess,MM-NAGP2-... hosts
+IGTPL,Igatpuri,code,guess,
+NSKP1,Nashik,code,guess,
+NSKP2,Nashik,code,guess,
+ZHBFD,Zaheerabad,code,guess,
+ZHBAD,Zaheerabad,code,guess,
+ZHB,Zaheerabad,prefix,guess,ZHB-... hosts
+JAIPL,Jaipur,code,guess,
+JAIWH,Jaipur,code,guess,warehouse?
+KNHP2,Kanhe,code,guess,
+RDPPL,Rudrapur,code,guess,
+CWDMT,Chinchwad,code,guess,confirm
+HDWPL,Haridwar,code,guess,
+CJBPL,Coimbatore,code,guess,confirm
+PTMPL,Pithampur,code,guess,
+GTWCO,Mumbai Gateway,code,guess,confirm
+CHKPL,Chakan,code,guess,
+CHKMT,Chakan,code,guess,
+CHK,Chakan,prefix,guess,CHK-... and -CHK-MT- hosts
+MVML,Chakan,prefix,guess,MVML = Mahindra Vehicle Manufacturers (Chakan)
+KNDMD,Kandivali,code,guess,
+KNDFD,Kandivali,code,guess,
+WRLMT,Worli,code,guess,
+MOHP1,Mohali,code,guess,
+MOHP2,Mohali,code,guess,
+SEWCO,Unknown,code,guess,confirm
+COLO,Data centre (COLO),prefix,guess,colocation DC hosts
+MMDC,Data centre (MMDC),prefix,guess,

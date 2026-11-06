@@ -1,0 +1,11 @@
+# docker compose up -d --build   then open http://<server>:8502
+services:
+  dashboard:
+    build: .
+    container_name: mm-dashboard
+    ports:
+      - "8502:8502"
+    volumes:
+      - ./data/raw:/data:ro        # the four client export files, read-only
+    restart: unless-stopped
+    mem_limit: 2g

@@ -1,0 +1,12 @@
+
+# Confidential client data
+data/raw/*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
